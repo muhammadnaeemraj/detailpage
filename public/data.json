@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Card 1",
+    "description": "This is the first card.",
+    "details": "Detailed information about the first card.",
+    "contactNumber": "+923057373695"
+  },
+  {
+    "id": 2,
+    "title": "Card 2",
+    "description": "This is the second card.",
+    "details": "Detailed information about the second card.",
+    "contactNumber": "+923057373696"
+  }
+]
